@@ -9,4 +9,5 @@ Problem Description: Supermarket stores like Walmart would like to know how much
 Link to the Kaggle Problem: [Store Sales Forecasting For Weather Sensitive Productshttps://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
 
 For entire details on the model creation and accuracy, please refer to the file [final_report.pdf](https://github.com/nehareddyg/Store-Sales-Forecasting-For-Weather-Sensitive-Products/blob/master/final_report.pdf)
+
 Contributors: G Neha (nehareddyg), Meghana Kotagiri(meghanakotagiri)
